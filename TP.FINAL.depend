@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625442781 source:d:\lab 1\tp.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1625783782 source:d:\lab 1\tp.finalcorreccion\tp.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
